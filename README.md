@@ -32,3 +32,11 @@ This Player will help a robot play songs that are stored in the program. The son
   <img src="assets/Robot.png" width="400" alt="Captura de tela">
 </p>
 
+## Academic Integrity Notice
+The code in this repository represents my group solutions to the Microcontroller Programming main project.
+
+* Use it to **learn**, not to **copy**
+* Understand the logic before applying similar approaches
+* Remember that struggling with a problem is part of the learning process
+
+*Current students, respect your course's academic integrity policies.*
